@@ -38,7 +38,7 @@ This project uses the \*\*Malaria Cell Images Dataset\*\* provided by \*\*Tensor
 
 &nbsp;
 
-&nbsp; LINK:https://www.tensorflow.org/datasets/catalog/malaria
+&nbsp; 
 
 
 
