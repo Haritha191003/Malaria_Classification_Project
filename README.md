@@ -40,8 +40,6 @@ This project uses the \*\*Malaria Cell Images Dataset\*\* provided by \*\*Tensor
 
 &nbsp; 
 
-
-
 \- The dataset contains 2 classes:
 
 
